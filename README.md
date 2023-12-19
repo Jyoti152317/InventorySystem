@@ -1,4 +1,4 @@
-Project Name:Invantory System
+Invantory System
 
 Description
 
