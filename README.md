@@ -1,5 +1,3 @@
-# InventorySystem1
-
 # InventorySystem
 
 ### Description ###
